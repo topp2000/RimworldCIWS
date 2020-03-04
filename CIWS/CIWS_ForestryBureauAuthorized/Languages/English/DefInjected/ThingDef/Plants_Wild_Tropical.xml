@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlantTieshu.label>Steel Tree</PlantTieshu.label>
+  <PlantTieshu.description>A hard wood tree; comparable to steel (as in iron and steel).</PlantTieshu.description>
+
+  <PlantYinshu.label>Silver Tree</PlantYinshu.label>
+  <PlantYinshu.description>Here's the money!</PlantYinshu.description>
+
+  <PlantJinshu.label>Gold Tree</PlantJinshu.label>
+  <PlantJinshu.description>Valuables can not be circulated!</PlantJinshu.description>
+
+  <PlantBoligangshu.label>Plasteel Tree</PlantBoligangshu.label>
+  <PlantBoligangshu.description>A rich resin can be used to make fiberglass.</PlantBoligangshu.description>
+
+  <PlantJixieshu.label>Component Tree</PlantJixieshu.label>
+  <PlantJixieshu.description>A tree full of gears and screws?!</PlantJixieshu.description>
+
+  <PlantYoushu.label>Uranium Tree</PlantYoushu.label>
+  <PlantYoushu.description>Full of radioactive elements? Tree.</PlantYoushu.description>
+
+
+</LanguageData>

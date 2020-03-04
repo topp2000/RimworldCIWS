@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>CIWS_Plant</name>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<author>topp2000</author>
+	<packageId>Topp2000.CIWS.Plant</packageId>
+	<modDependencies>
+		<li>
+			<packageId>Topp2000.CIWS.Core</packageId>
+			<displayName>CIWS_Core</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1493484469
+			</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>
+[Mod版本：1.1.1]
+
+需要【近防系统CIWS_核心】的支持。
+简介：https://www.gamejilu.com/notes/rimworld_clws/
+更新日志：
+1.1.1：支持1.1版本。
+1.0.1：支持1.0版本。
+0.19.1：支持0.19版本。
+0.18.1：支持0.18版本。
+0.17.2：添加植物：三七。
+0.17.1：支持0.17版本。
+0.16.5：植物更换贴图，感谢@颜晨~的图片支持。
+0.16.4：添加育苗地。
+0.16.3：修复红字bug。
+0.16.2：现在收获后将不会破坏植物了，平衡性调整。
+0.16.1：支持0.16版本。
+0.15.4：平衡性调整。
+0.15.3：支持繁体中文，感谢猫叔的翻译@Biscuit。
+0.15.2：将地板从杂项中移植过来，并各自添加原木制作的地板。
+0.15.1：从CIWS近防系统mod中分离。
+	</description>
+</ModMetaData>

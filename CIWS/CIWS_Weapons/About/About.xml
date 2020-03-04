@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>CIWS_Weapon</name>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<author>topp2000</author>
+	<packageId>Topp2000.CIWS.Weapon</packageId>
+	<modDependencies>
+		<li>
+			<packageId>Topp2000.CIWS.Core</packageId>
+			<displayName>CIWS_Core</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1493484469
+			</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>
+[Mod版本：1.1.1]
+
+需要【近防系统CIWS_核心】的支持。
+简介：https://www.gamejilu.com/notes/rimworld_clws/
+更新日志：
+1.1.1：支持1.1版本。
+1.0.1：支持1.0版本。
+0.19.1：支持0.19版本。
+0.18.2：降低核弹的飞行速度，增加小人的逃生机会，感谢鱼骨头小姐姐的贴图支持。
+0.18.1：支持0.18版本，添加土制猎枪和六七式木柄手榴弹。
+0.17.1：支持0.17版本。
+0.16.6：添加一种武器：灭火手榴弹，快速灭火的好助手。
+0.16.5：添加一种武器：pf89nb单兵三重核火箭筒。
+0.16.4：添加一种武器：81-1式自动步枪。
+0.16.3：修复红字bug。
+0.16.2：添加一种武器：pf89n单兵核火箭筒。
+0.16.1：支持0.16版本。
+0.15.3：增加一种武器：pf89a单兵火箭筒。
+0.15.2：支持繁体中文，感谢猫叔的翻译@Biscuit。
+0.15.1：初始版本，添加一把手枪：格洛克18c，添加一把狙击步枪：85式狙击步枪。
+	</description>
+</ModMetaData>

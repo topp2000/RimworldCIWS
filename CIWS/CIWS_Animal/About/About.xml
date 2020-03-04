@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>CIWS_Animal</name>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<author>topp2000</author>
+	<packageId>Topp2000.CIWS.Animal</packageId>
+	<modDependencies>
+		<li>
+			<packageId>Topp2000.CIWS.Core</packageId>
+			<displayName>CIWS_Core</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1493484469
+			</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>
+[Mod版本：1.1.1]
+
+简介：https://www.gamejilu.com/notes/rimworld_clws/
+更新日志：
+1.1.1：支持1.1版本。
+1.0.1：支持1.0版本。
+0.19.1：支持0.19版本。
+0.18.1：支持0.18版本，减少野外战熊出现的几率。
+0.17.2：降低招募战熊失败的攻击几率。
+0.17.1：支持0.17版本。
+0.16.4：降低战熊的数量。
+0.16.3：添加战熊，感谢@红月Sama~ 的图片支持。
+0.16.2：修复野外不刷新的bug。
+0.16.1：支持0.16版本。
+0.15.4：支持繁体中文，感谢猫叔的翻译@Biscuit。
+0.15.3：微调食铁兽属性，现在可以买到食铁兽。
+0.15.2：食铁兽加入战场。
+0.15.1：传说中下金蛋的老母鸡现已加入豪华午餐，杀鸡取卵不再是梦。
+	</description>
+</ModMetaData>

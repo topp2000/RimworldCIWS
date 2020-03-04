@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<TerrainDef  ParentName="FloorBase">
+		<defName>YuanmuFloor</defName>
+		<label>原木地板</label>
+		<renderPrecedence>250</renderPrecedence>
+		<description>原木地板，看起来比较廉价。</description>
+		<texturePath>Terrain/Surfaces/WoodFloor</texturePath>
+		<statBases>
+			<Beauty>2</Beauty>
+			<Cleanliness>0.3</Cleanliness>
+			<WorkToMake>85</WorkToMake>
+		</statBases>
+		<color>(205,170,125)</color>
+		<costList>
+			<WoodLog>5</WoodLog>
+		</costList>
+		<takeFootprints>false</takeFootprints>
+		<constructEffect>ConstructWood</constructEffect>
+	</TerrainDef>
+
+
+	<TerrainDef  ParentName="FloorBase">
+		<defName>FuheFloor</defName>
+		<label>复合地板</label>
+		<renderPrecedence>250</renderPrecedence>
+		<description>原木复合地板，漂亮但是成本高昂。</description>
+		<texturePath>Terrain/Surfaces/GenericFloorTile</texturePath>
+		<color>(120, 120, 120)</color>
+		<!--<pathcost>-2</pathcost>-->
+		<statBases>
+			<Beauty>5</Beauty>
+			<Cleanliness>1.0</Cleanliness>
+			<WorkToMake>200</WorkToMake>
+		</statBases>
+		<costList>
+			<WoodLog>3</WoodLog>
+			<Steel>2</Steel>
+		</costList>
+		<takeFootprints>false</takeFootprints>
+		<constructEffect>ConstructWood</constructEffect>
+	</TerrainDef>
+
+
+
+	<TerrainDef  ParentName="FloorBase">
+		<defName>YumiaoFloor</defName>
+		<label>育苗地</label>
+		<renderPrecedence>250</renderPrecedence>
+		<description>育苗地，施加复合肥的土地。</description>
+		<texturePath>Terrain/Surfaces/SoilRich</texturePath>
+		<pathCost>2</pathCost>
+		<statBases>
+			<Beauty>1</Beauty>
+			<WorkToMake>200</WorkToMake>
+		</statBases>
+		<costList>
+			<Fuhefei>1</Fuhefei>
+		</costList>
+		<affordances>
+			<li>Light</li>
+			<li>Heavy</li>
+			<li>GrowSoil</li>
+			<li>Diggable</li>
+		</affordances>
+		<fertility>2.5</fertility>
+		<constructEffect>ConstructDirt</constructEffect>
+	</TerrainDef>
+
+
+</Defs>

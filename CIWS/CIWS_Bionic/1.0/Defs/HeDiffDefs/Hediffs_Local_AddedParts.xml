@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!-- Added body parts -->
+
+	<HediffDef Name="AddedBodyPartBase"
+	           Abstract="True">
+		<hediffClass>Hediff_AddedPart</hediffClass>
+		<defaultLabelColor>(0.5, 0.5, 0.9)</defaultLabelColor>
+		<isBad>false</isBad>
+	</HediffDef>
+
+
+
+	<HediffDef ParentName="AddedBodyPartBase">
+		<defName>CIWSNamiAI</defName>
+		<label>纳米机器人</label>
+		<labelNoun>纳米机器人</labelNoun>
+		<comps>
+			<li Class="HediffCompProperties_VerbGiver">
+				<tools>
+					<li>
+						<label>fist</label>
+						<capacities>
+							<li>Blunt</li>
+						</capacities>
+						<power>14</power>
+						<cooldownTime>1.65</cooldownTime>
+					</li>
+				</tools>
+			</li>
+		</comps>
+		<spawnThingOnRemoved>CIWSNamiAI</spawnThingOnRemoved>
+		<stages>
+			<li>
+				<capMods>
+					<li>
+						<capacity>Consciousness</capacity>
+						<offset>0.5</offset>
+					</li>
+					<li>
+						<capacity>Sight</capacity>
+						<offset>1.0</offset>
+					</li>
+					<li>
+						<capacity>Manipulation</capacity>
+						<offset>1.0</offset>
+					</li>
+					<li>
+						<capacity>BloodFiltration</capacity>
+						<offset>1.0</offset>
+					</li>
+				</capMods>
+			</li>
+		</stages>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>1.5</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+
+
+	<HediffDef ParentName="AddedBodyPartBase">
+		<defName>CIWSFanyiJiaya</defName>
+		<label>语言翻译假牙</label>
+		<labelNoun>语言翻译假牙</labelNoun>
+		<spawnThingOnRemoved>CIWSFanyiJiaya</spawnThingOnRemoved>
+		<stages>
+			<li>
+				<capMods>
+					<li>
+						<capacity>Talking</capacity>
+						<offset>1.0</offset>
+					</li>
+					<li>
+						<capacity>Hearing</capacity>
+						<offset>1.0</offset>
+					</li>
+				</capMods>
+			</li>
+		</stages>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>1.5</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+
+
+	<HediffDef ParentName="AddedBodyPartBase">
+		<defName>CIWSZhinengTui</defName>
+		<label>智能仿生腿</label>
+		<labelNoun>智能仿生腿</labelNoun>
+		<spawnThingOnRemoved>CIWSZhinengTui</spawnThingOnRemoved>
+		<stages>
+			<li>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>1.0</offset>
+					</li>
+				</capMods>
+			</li>
+		</stages>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>1.5</partEfficiency>
+		</addedPartProps>
+	</HediffDef>
+
+</Defs>

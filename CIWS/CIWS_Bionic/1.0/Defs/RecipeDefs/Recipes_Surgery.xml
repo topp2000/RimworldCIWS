@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<RecipeDef Abstract="True" Name="SurgeryFlesh">
+		<effectWorking>Surgery</effectWorking>
+		<soundWorking>Recipe_Surgery</soundWorking>
+		<workSpeedStat>MedicalOperationSpeed</workSpeedStat>
+		<workSkill>Medicine</workSkill>
+		<workSkillLearnFactor>16</workSkillLearnFactor>
+		<recipeUsers>
+			<li>Human</li>
+		</recipeUsers>
+	</RecipeDef>
+	<!-- natural -->
+
+	<RecipeDef ParentName="SurgeryFlesh">
+		<defName>InstallCIWSNamiAI</defName>
+		<label>注入纳米机器人</label>
+		<description>注入中。</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>注入纳米机器人。</jobString>
+		<workAmount>2000</workAmount>
+		<surgerySuccessChanceFactor>1.1</surgerySuccessChanceFactor>
+		<skillRequirements>
+			<Medicine>3</Medicine>
+		</skillRequirements>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>CIWSNamiAI</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>CIWSNamiAI</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Spine</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>CIWSNamiAI</addsHediff>
+	</RecipeDef>
+
+	<RecipeDef ParentName="SurgeryFlesh">
+		<defName>InstallCIWSFanyiJiaya</defName>
+		<label>安装语言翻译假牙</label>
+		<description>安装中。</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>安装语言翻译假牙。</jobString>
+		<workAmount>2000</workAmount>
+		<surgerySuccessChanceFactor>1.1</surgerySuccessChanceFactor>
+		<skillRequirements>
+			<Medicine>3</Medicine>
+		</skillRequirements>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>CIWSFanyiJiaya</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>CIWSFanyiJiaya</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Jaw</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>CIWSFanyiJiaya</addsHediff>
+	</RecipeDef>
+
+
+	<RecipeDef ParentName="SurgeryFlesh">
+		<defName>InstallCIWSZhinengTui</defName>
+		<label>安装智能仿生腿</label>
+		<description>安装中。</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>安装智能仿生腿。</jobString>
+		<workAmount>2000</workAmount>
+		<surgerySuccessChanceFactor>1.1</surgerySuccessChanceFactor>
+		<skillRequirements>
+			<Medicine>3</Medicine>
+		</skillRequirements>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>CIWSZhinengTui</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>CIWSZhinengTui</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Leg</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>CIWSZhinengTui</addsHediff>
+	</RecipeDef>
+
+</Defs>

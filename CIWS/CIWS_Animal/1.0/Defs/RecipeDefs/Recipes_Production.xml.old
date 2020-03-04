@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<RecipeDef>
+		<defName>Make_CIWSColonist</defName>
+		<label>祈祷小人</label>
+		<description>祈祷小人。</description>
+		<jobString>少女祈祷中.</jobString>
+		<workAmount>250</workAmount>
+		<workSpeedStat>CookSpeed</workSpeedStat>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_CookMeal</soundWorking>
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass><!--按营养值计算数量-->
+		<recipeUsers>
+			<li>CraftingSpot</li>
+		</recipeUsers>
+		<ingredients>
+		</ingredients>
+		<products>
+			<EggCIWSColonistFertilized>1</EggCIWSColonistFertilized>
+		</products>
+		<workSkill>Cooking</workSkill>
+	</RecipeDef>
+
+
+</Defs>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- natural -->
+
+  <InstallCIWSNamiAI.label>注入纳米机器人</InstallCIWSNamiAI.label>
+  <InstallCIWSNamiAI.description>正在注入纳米机器人。</InstallCIWSNamiAI.description>
+  <InstallCIWSNamiAI.jobString>注入纳米机器人。</InstallCIWSNamiAI.jobString>
+
+  <InstallCIWSFanyiJiaya.label>安装语言翻译假牙</InstallCIWSFanyiJiaya.label>
+  <InstallCIWSFanyiJiaya.description>正在安装语言翻译假牙。</InstallCIWSFanyiJiaya.description>
+  <InstallCIWSFanyiJiaya.jobString>安装语言翻译假牙。</InstallCIWSFanyiJiaya.jobString>
+
+  <InstallCIWSZhinengTui.label>安装智能仿生腿</InstallCIWSZhinengTui.label>
+  <InstallCIWSZhinengTui.description>正在安装智能仿生腿。</InstallCIWSZhinengTui.description>
+  <InstallCIWSZhinengTui.jobString>安装智能仿生腿。</InstallCIWSZhinengTui.jobString>
+
+
+  <!--<InstallCLWSNamiAI.label>注入纳米机器人</InstallCLWSNamiAI.label>-->
+  <!--<InstallCLWSNamiAI.description>注入中。</InstallCLWSNamiAI.description>-->
+  <!--<InstallCLWSNamiAI.jobString>注入纳米机器人。</InstallCLWSNamiAI.jobString>-->
+  <!--<InstallCLWSFanyiJiaya.label>安装语言翻译假牙</InstallCLWSFanyiJiaya.label>-->
+  <!--<InstallCLWSFanyiJiaya.description>安装中。</InstallCLWSFanyiJiaya.description>-->
+  <!--<InstallCLWSFanyiJiaya.jobString>安装语言翻译假牙。</InstallCLWSFanyiJiaya.jobString>-->
+  <!--<InstallCLWSZhinengTui.label>安装智能仿生腿</InstallCLWSZhinengTui.label>-->
+  <!--<InstallCLWSZhinengTui.description>安装中。</InstallCLWSZhinengTui.description>-->
+  <!--<InstallCLWSZhinengTui.jobString>安装智能仿生腿。</InstallCLWSZhinengTui.jobString>-->
+
+</LanguageData>

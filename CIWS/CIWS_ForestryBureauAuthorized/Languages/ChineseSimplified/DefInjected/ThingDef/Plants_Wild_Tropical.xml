@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlantTieshu.label>铁树</PlantTieshu.label>
+  <PlantTieshu.description>一种质地坚硬的树木，堪比钢铁（其实就是钢铁）。</PlantTieshu.description>
+
+  <PlantYinshu.label>银树</PlantYinshu.label>
+  <PlantYinshu.description>这就是钱！</PlantYinshu.description>
+
+  <PlantJinshu.label>金树</PlantJinshu.label>
+  <PlantJinshu.description>贵重物品，不能流通！</PlantJinshu.description>
+
+  <PlantBoligangshu.label>玻璃钢树</PlantBoligangshu.label>
+  <PlantBoligangshu.description>丰富的树脂可以用来合成玻璃钢。</PlantBoligangshu.description>
+
+  <PlantJixieshu.label>机械树</PlantJixieshu.label>
+  <PlantJixieshu.description>长满齿轮与螺丝的树？！</PlantJixieshu.description>
+
+  <PlantYoushu.label>铀树</PlantYoushu.label>
+  <PlantYoushu.description>充满放射性元素？的树。</PlantYoushu.description>
+
+
+</LanguageData>

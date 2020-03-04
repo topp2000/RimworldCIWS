@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlantTieshu.label>鐵樹</PlantTieshu.label>
+  <PlantTieshu.description>一種質地堅硬的樹木，堪比鋼鐵。</PlantTieshu.description>
+
+  <PlantYinshu.label>銀樹</PlantYinshu.label>
+  <PlantYinshu.description>這就是錢！</PlantYinshu.description>
+
+  <PlantJinshu.label>金樹</PlantJinshu.label>
+  <PlantJinshu.description>貴重物品，不能流通！</PlantJinshu.description>
+
+  <PlantBoligangshu.label>塑鋼樹</PlantBoligangshu.label>
+  <PlantBoligangshu.description>豐富的樹脂可以用來合成塑鋼。</PlantBoligangshu.description>
+
+  <PlantJixieshu.label>機械樹</PlantJixieshu.label>
+  <PlantJixieshu.description>長滿齒輪與螺絲的樹？！</PlantJixieshu.description>
+
+  <PlantYoushu.label>鈾樹</PlantYoushu.label>
+  <PlantYoushu.description>充滿放射性元素的樹。</PlantYoushu.description>
+
+
+</LanguageData>

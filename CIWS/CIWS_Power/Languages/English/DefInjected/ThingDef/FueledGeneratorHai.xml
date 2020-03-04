@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FueledGeneratorL.label>large power generator</FueledGeneratorL.label>
+  <FueledGeneratorL.description>With more wood burning to generate electricity, energy consumption is reduced by 20%, and fuel must be added manually.</FueledGeneratorL.description>
+  <FueledGeneratorL_Blueprint.label>large power generator(blueprint)</FueledGeneratorL_Blueprint.label>
+  <FueledGeneratorL_Frame.label>large power generator(building)</FueledGeneratorL_Frame.label>
+  <FueledGeneratorL_Frame.description>With more wood burning to generate electricity, energy consumption is reduced by 20%, and fuel must be added manually.</FueledGeneratorL_Frame.description>
+
+  <FueledGeneratorXL.label>超大型火力发电机</FueledGeneratorXL.label>
+  <FueledGeneratorXL.description>超大型火力发电机，大幅度降低能源消耗。</FueledGeneratorXL.description>
+  <FueledGeneratorXL_Blueprint.label>超大型火力发电机 (blueprint)</FueledGeneratorXL_Blueprint.label>
+  <FueledGeneratorXL_Frame.label>超大型火力发电机 (building)</FueledGeneratorXL_Frame.label>
+  <FueledGeneratorXL_Frame.description>超大型火力发电机，大幅度降低能源消耗。</FueledGeneratorXL_Frame.description>
+
+  <FueledGeneratorHai.label>nuclear fusion power station</FueledGeneratorHai.label>
+  <FueledGeneratorHai.description>The controllable stable nuclear fusion device can output power safely and steadily.</FueledGeneratorHai.description>
+  <FueledGeneratorHai_Blueprint.label>Nuclear fusion power station(blueprint)</FueledGeneratorHai_Blueprint.label>
+  <FueledGeneratorHai_Frame.label>Nuclear fusion power station(building)</FueledGeneratorHai_Frame.label>
+  <FueledGeneratorHai_Frame.description>The controllable stable nuclear fusion device can output power safely and steadily.</FueledGeneratorHai_Frame.description>
+
+  <Dianchi.label>graphene battery</Dianchi.label>
+  <Dianchi.description>Graphene battery, due to the extremely thin graphene material, has very limited cation mobility. The battery made by this technology has higher charging efficiency, faster speed and larger capacity.</Dianchi.description>
+  <Dianchi_Blueprint.label>graphene battery(blueprint)</Dianchi_Blueprint.label>
+  <Dianchi_Blueprint_Install.label>graphene battery(blueprint)</Dianchi_Blueprint_Install.label>
+  <Dianchi_Frame.label>graphene battery(building)</Dianchi_Frame.label>
+  <Dianchi_Frame.description>Graphene battery, due to the extremely thin graphene material, has very limited cation mobility. The battery made by this technology has higher charging efficiency, faster speed and larger capacity.</Dianchi_Frame.description>
+
+
+  <!--<FueledGeneratorLG.label>large power generator improved</FueledGeneratorLG.label>-->
+  <!--<FueledGeneratorLG.description>The improved type of large thermal power generator greatly reduces energy consumption.</FueledGeneratorLG.description>-->
+  <!--<FueledGeneratorLG_Blueprint.label>large power generator improved(blueprint)</FueledGeneratorLG_Blueprint.label>-->
+  <!--<FueledGeneratorLG_Frame.label>large power generator improved(building)</FueledGeneratorLG_Frame.label>-->
+  <!--<FueledGeneratorLG_Frame.description>The improved type of large thermal power generator greatly reduces energy consumption.</FueledGeneratorLG_Frame.description>-->
+
+</LanguageData>

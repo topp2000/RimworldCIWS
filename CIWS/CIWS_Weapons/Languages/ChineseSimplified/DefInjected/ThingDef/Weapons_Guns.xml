@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_TieSha.label>铁砂</Bullet_TieSha.label>
+
+  <Gun_TuZhiLieQiang.label>土制猎枪</Gun_TuZhiLieQiang.label>
+  <Gun_TuZhiLieQiang.description>简单制作的猎枪，比霰弹枪杀伤力更强，射程更短，适合前期消灭任何胆敢近身的敌人，感谢箱兔小姐姐的贴图支持。</Gun_TuZhiLieQiang.description>
+  <Gun_TuZhiLieQiang.tools.0.label>枪托</Gun_TuZhiLieQiang.tools.0.label>
+  <Gun_TuZhiLieQiang.tools.1.label>枪管</Gun_TuZhiLieQiang.tools.1.label>
+
+  <Bullet_9mmluge.label>九毫米鲁格弹</Bullet_9mmluge.label>
+
+  <Gun_CIWS_G18C.label>格洛克18C</Gun_CIWS_G18C.label>
+  <Gun_CIWS_G18C.description>格洛克18C手枪，一款优秀的自动手枪，拥有自动射击功能。</Gun_CIWS_G18C.description>
+  <Gun_CIWS_G18C.tools.0.label>枪托</Gun_CIWS_G18C.tools.0.label>
+  <Gun_CIWS_G18C.tools.1.label>枪管</Gun_CIWS_G18C.tools.1.label>
+
+  <Bullet_Dbp87A.label>五点八毫米钢芯弹</Bullet_Dbp87A.label>
+
+  <Gun_QBU85A.label>八五式狙击步枪</Gun_QBU85A.label>
+  <Gun_QBU85A.description>中国生产的85式狙击步枪，由79式狙击步枪改进而来。</Gun_QBU85A.description>
+  <Gun_QBU85A.tools.0.label>枪托</Gun_QBU85A.tools.0.label>
+  <Gun_QBU85A.tools.1.label>枪管</Gun_QBU85A.tools.1.label>
+
+  <Bullet_M1943A.label>七点六二毫米M1943中间型步枪弹</Bullet_M1943A.label>
+
+  <Gun_QBZ81A.label>八一杠一式自动步枪</Gun_QBZ81A.label>
+  <Gun_QBZ81A.description>中国生产的一款精度好、动作可靠、操作维护简便的自动步枪。</Gun_QBZ81A.description>
+  <Gun_QBZ81A.tools.0.label>枪托</Gun_QBZ81A.tools.0.label>
+  <Gun_QBZ81A.tools.1.label>枪管</Gun_QBZ81A.tools.1.label>
+
+  <Bullet_Huojiandan.label>八十毫米火箭弹</Bullet_Huojiandan.label>
+
+  <Gun_CIWS_PF89A.label>PF89A火箭筒</Gun_CIWS_PF89A.label>
+  <Gun_CIWS_PF89A.description>PF89A式单兵火箭筒。</Gun_CIWS_PF89A.description>
+  <Gun_CIWS_PF89A.tools.0.label>炮筒</Gun_CIWS_PF89A.tools.0.label>
+
+  <Bullet_Hedantou.label>核弹头</Bullet_Hedantou.label>
+
+  <Gun_CIWS_PF89N.label>PF89N核火箭筒</Gun_CIWS_PF89N.label>
+  <Gun_CIWS_PF89N.description>PF89N式单兵核火箭筒。</Gun_CIWS_PF89N.description>
+  <Gun_CIWS_PF89N.tools.0.label>炮筒</Gun_CIWS_PF89N.tools.0.label>
+
+  <Gun_CIWS_PF89NB.label>PF89NB三重核火箭筒</Gun_CIWS_PF89NB.label>
+  <Gun_CIWS_PF89NB.description>PF89NB式单兵三重核火箭筒。</Gun_CIWS_PF89NB.description>
+  <Gun_CIWS_PF89NB.tools.0.label>炮筒</Gun_CIWS_PF89NB.tools.0.label>
+
+
+  <!--<Proj_GrenadeMiehuo.label>灭火手榴弹</Proj_GrenadeMiehuo.label>-->
+  <!--<Weapon_GrenadeMiehuo.label>灭火手榴弹</Weapon_GrenadeMiehuo.label>-->
+  <!--<Weapon_GrenadeMiehuo.description>灭火手榴弹。</Weapon_GrenadeMiehuo.description>-->
+  <!--<Weapon_GrenadeMiehuo.verbs.0.label>投掷灭火手榴弹</Weapon_GrenadeMiehuo.verbs.0.label>-->
+
+</LanguageData>

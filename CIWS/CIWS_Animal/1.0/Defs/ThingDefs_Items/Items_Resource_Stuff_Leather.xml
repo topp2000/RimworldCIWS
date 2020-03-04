@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_CIWSDaXiongMao</defName>
+    <label>大熊猫皮</label>
+    <description>大熊猫的毛茸茸的皮革。与大多数皮革相比，它在一些温度调节方面更足和更好。</description>
+    <graphicData>
+      <color>(1,1,1)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.4</MarketValue>
+      <StuffPower_Armor_Sharp>1.82</StuffPower_Armor_Sharp>
+      <StuffPower_Insulation_Cold>40</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>30</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(1,1,1)</color>
+      <commonality>0.05</commonality>
+    </stuffProps>
+  </ThingDef>
+  
+    <ThingDef ParentName="LeatherBase">
+    <defName>Leather_ZhanXiong</defName>
+    <label>战熊皮</label>
+    <description>战熊的毛茸茸的皮革。与大多数皮革相比，它在一些温度调节方面更足和更好。</description>
+    <graphicData>
+      <color>(1,1,1)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>8.2</MarketValue>
+      <StuffPower_Armor_Sharp>3.12</StuffPower_Armor_Sharp>
+      <StuffPower_Insulation_Cold>42</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>35</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(1,1,1)</color>
+      <commonality>0.05</commonality>
+    </stuffProps>
+  </ThingDef>
+
+</Defs>

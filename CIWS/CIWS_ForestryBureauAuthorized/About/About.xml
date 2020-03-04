@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>CIWS_ForestryBureauAuthorized</name>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<author>topp2000</author>
+	<packageId>Topp2000.CIWS.ForestryBureauAuthorized</packageId>
+	<modDependencies>
+		<li>
+			<packageId>Topp2000.CIWS.Core</packageId>
+			<displayName>CIWS_Core</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1493484469
+			</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>
+[Mod版本：1.1.1]
+
+简介：林业局授权，资源种植。
+更新日志：
+1.1.1：支持1.1版本。
+1.0.1：支持1.0版本。
+0.19.1：支持0.19版本。
+0.18.1：支持0.18版本。
+0.17.2：微调产量。
+0.17.1：初始版本。
+	</description>
+</ModMetaData>

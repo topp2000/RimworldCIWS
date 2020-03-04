@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GoldChicken.label>老母鸡</GoldChicken.label>
+  <GoldChicken.description>下金蛋的老母鸡，发家致富的来源。</GoldChicken.description>
+  <GoldChicken.tools.0.label>爪子</GoldChicken.tools.0.label>
+  <GoldChicken.tools.2.label>头</GoldChicken.tools.2.label>
+  <!-- Leather Amount: 0 -->
+  <GoldChicken_Meat.label>老鸡皮</GoldChicken_Meat.label>
+  <GoldChicken_Meat.description>老鸡皮</GoldChicken_Meat.description>
+  <GoldChicken_Corpse.label>老鸡尸体</GoldChicken_Corpse.label>
+  <GoldChicken_Corpse.description>老鸡尸体</GoldChicken_Corpse.description>
+
+
+  <!-- 大熊猫 -->
+
+  <CIWSDaXiongMao.label>大熊猫</CIWSDaXiongMao.label>
+  <CIWSDaXiongMao.description>天下无敌萌的大熊猫，战斗力一点都不强。</CIWSDaXiongMao.description>
+  <CIWSDaXiongMao.tools.0.label>左爪</CIWSDaXiongMao.tools.0.label>
+  <CIWSDaXiongMao.tools.1.label>右爪</CIWSDaXiongMao.tools.1.label>
+  <CIWSDaXiongMao.tools.3.label>头</CIWSDaXiongMao.tools.3.label>
+  <CIWSDaXiongMao_Leather.label>大熊猫皮</CIWSDaXiongMao_Leather.label>
+  <CIWSDaXiongMao_Leather.description>大熊猫皮</CIWSDaXiongMao_Leather.description>
+  <CIWSDaXiongMao_Leather.stuffProps.stuffAdjective>大熊猫皮</CIWSDaXiongMao_Leather.stuffProps.stuffAdjective>
+  <CIWSDaXiongMao_Meat.label>大熊猫肉</CIWSDaXiongMao_Meat.label>
+  <CIWSDaXiongMao_Meat.description>大熊猫肉</CIWSDaXiongMao_Meat.description>
+  <CIWSDaXiongMao_Corpse.label>大熊猫尸体</CIWSDaXiongMao_Corpse.label>
+  <CIWSDaXiongMao_Corpse.description>大熊猫尸体</CIWSDaXiongMao_Corpse.description>
+
+
+  <!-- 战熊 -->
+
+  <ZhanXiong.label>战熊</ZhanXiong.label>
+  <ZhanXiong.description>天下无敌的战熊，战斗力一点都不强。</ZhanXiong.description>
+  <ZhanXiong.tools.0.label>左爪</ZhanXiong.tools.0.label>
+  <ZhanXiong.tools.1.label>右爪</ZhanXiong.tools.1.label>
+  <ZhanXiong.tools.3.label>头</ZhanXiong.tools.3.label>
+  <ZhanXiong_Leather.label>战熊皮</ZhanXiong_Leather.label>
+  <ZhanXiong_Leather.description>战熊皮</ZhanXiong_Leather.description>
+  <ZhanXiong_Leather.stuffProps.stuffAdjective>战熊皮</ZhanXiong_Leather.stuffProps.stuffAdjective>
+  <ZhanXiong_Meat.label>战熊肉</ZhanXiong_Meat.label>
+  <ZhanXiong_Meat.description>战熊肉</ZhanXiong_Meat.description>
+  <ZhanXiong_Corpse.label>战熊尸体</ZhanXiong_Corpse.label>
+  <ZhanXiong_Corpse.description>战熊尸体</ZhanXiong_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>CIWS_Bionic</name>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<author>topp2000</author>
+	<packageId>Topp2000.CIWS.Bionic</packageId>
+	<modDependencies>
+		<li>
+			<packageId>Topp2000.CIWS.Core</packageId>
+			<displayName>CIWS_Core</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1493484469
+			</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Topp2000.CIWS.Core</li>
+	</loadAfter>
+	<description>
+[Mod版本：1.1.1]
+
+需要近防系统CIWS_核心的支持。
+简介：https://www.gamejilu.com/notes/rimworld_clws/
+更新日志：
+1.1.1：支持1.1版本。
+1.0.1：支持1.0版本。
+0.19.1：支持0.19版本。
+0.18.1：支持0.18版本。
+0.17.2：修复已知bug。
+0.17.1：支持0.17版本。
+0.16.3：添加语言翻译假牙和智能仿生腿，将纳米机器人的注入部位做了修改，调整价格，取消纳米机器人的制作方式。
+0.16.2：将法师之手改为纳米机器人，修复因版本升级导致的bug，修复不知道什么时候产生的格式错误导致的不能添加仿生部件的bug。
+0.16.1：支持0.16版本。
+0.15.2：支持繁体中文，感谢猫叔的翻译@Biscuit。
+0.15.1：添加一种仿生部件--法师之手。
+	</description>
+</ModMetaData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 2: Non-electric -->
+
+  <CIWS_CyclicEnergy.label>CIWS - Recycling Energy</CIWS_CyclicEnergy.label>
+  <CIWS_CyclicEnergy.description>Reclaim free energy and unlock the improved type of large thermal power generator.</CIWS_CyclicEnergy.description>
+
+
+</LanguageData>

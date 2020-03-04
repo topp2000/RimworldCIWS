@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeGoldEgg.label>Make GoldEgg</MakeGoldEgg.label>
+  <MakeGoldEgg.description>Make GoldEgg.</MakeGoldEgg.description>
+  <MakeGoldEgg.jobString>Making GoldEgg.</MakeGoldEgg.jobString>
+
+  <MakeSilverEgg.label>Make SilverEgg</MakeSilverEgg.label>
+  <MakeSilverEgg.description>Make SilverEgg.</MakeSilverEgg.description>
+  <MakeSilverEgg.jobString>Making SilverEgg.</MakeSilverEgg.jobString>
+
+  <AddShengMingErHao.label>灌注生命二号</AddShengMingErHao.label>
+  <AddShengMingErHao.description>灌注生命二号。</AddShengMingErHao.description>
+  <AddShengMingErHao.jobString>灌注生命二号。</AddShengMingErHao.jobString>
+
+
+</LanguageData>

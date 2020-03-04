@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <YuanmuFloor.label>wooden floor</YuanmuFloor.label>
+  <YuanmuFloor.description>The wood floor looks cheap.</YuanmuFloor.description>
+
+  <FuheFloor.label>composite floor</FuheFloor.label>
+  <FuheFloor.description>The composite floor is beautiful but expensive.</FuheFloor.description>
+
+  <YumiaoFloor.label>nursery land</YumiaoFloor.label>
+  <YumiaoFloor.description>The land of the nursery where compound fertilizer is applied.</YumiaoFloor.description>
+
+
+</LanguageData>

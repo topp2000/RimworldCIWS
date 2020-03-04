@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RecipeDefs>
+
+	<RecipeDef>
+		<defName>MakeCLWSNamiAI</defName>
+		<label>制作纳米机器人</label>
+		<description>制作纳米机器人。</description>
+		<jobString>正在制作纳米机器人。</jobString>
+		<workSpeedStat>SmithingSpeed</workSpeedStat>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_Machining</soundWorking>
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<workAmount>2500</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Plasteel</li>
+					</thingDefs>
+				</filter>
+				<count>75</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Hai3Yetai</li>
+					</thingDefs>
+				</filter>
+				<count>10</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Plasteel</li>
+				<li>Hai3Yetai</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<CLWSNamiAI>1</CLWSNamiAI>
+		</products>
+		<workSkill>Crafting</workSkill>
+		<recipeUsers>
+			<li>TableMachining</li>
+		</recipeUsers>
+	</RecipeDef>
+
+
+</RecipeDefs>

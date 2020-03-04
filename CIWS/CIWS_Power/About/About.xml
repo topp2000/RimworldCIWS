@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>CIWS_Power</name>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<author>topp2000</author>
+	<packageId>Topp2000.CIWS.Power</packageId>
+	<modDependencies>
+		<li>
+			<packageId>Topp2000.CIWS.Core</packageId>
+			<displayName>CIWS_Core</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1493484469
+			</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>
+[Mod版本：1.1.1]
+
+需要【近防系统CIWS_核心】的支持。
+简介：https://www.gamejilu.com/notes/rimworld_clws/
+更新日志：
+1.1.1：支持1.1版本。
+1.0.1：支持1.0版本。
+0.19.1：支持0.19版本。
+0.18.1：支持0.18版本。
+0.17.2：添加大型火力发电机改进型，大幅度降低资源消耗。
+0.17.1：支持0.17版本。
+0.16.1：支持0.16版本。
+0.15.6：添加低风阻风力发电机。
+0.15.5：支持繁体中文，感谢猫叔的翻译@Biscuit。
+0.15.4：核聚变发电站模型改小，替换图片。
+0.15.3：降低核聚变发电站的发电量。
+0.15.2：大型火力发电机改大。
+0.15.1：从CIWS近防系统mod中分离。
+	</description>
+</ModMetaData>

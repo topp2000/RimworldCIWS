@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 2: Non-electric -->
+
+  <CIWS_CyclicEnergy.label>近防系統-回收能源</CIWS_CyclicEnergy.label>
+  <CIWS_CyclicEnergy.description>回收游離的能源，解鎖大型火力發電機改。</CIWS_CyclicEnergy.description>
+
+
+</LanguageData>

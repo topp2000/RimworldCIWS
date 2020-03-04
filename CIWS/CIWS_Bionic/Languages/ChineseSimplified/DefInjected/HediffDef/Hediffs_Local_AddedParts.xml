@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <CIWSNamiAI.label>纳米机器人</CIWSNamiAI.label>
+  <CIWSNamiAI.comps.0.tools.0.label>fist</CIWSNamiAI.comps.0.tools.0.label>
+  <CIWSNamiAI.labelNoun>纳米机器人</CIWSNamiAI.labelNoun>
+
+  <CIWSFanyiJiaya.label>语言翻译假牙</CIWSFanyiJiaya.label>
+  <CIWSFanyiJiaya.labelNoun>语言翻译假牙</CIWSFanyiJiaya.labelNoun>
+
+  <CIWSZhinengTui.label>智能仿生腿</CIWSZhinengTui.label>
+  <CIWSZhinengTui.labelNoun>智能仿生腿</CIWSZhinengTui.labelNoun>
+
+
+  <!--<CLWSNamiAI.label>纳米机器人</CLWSNamiAI.label>-->
+  <!--<CLWSFanyiJiaya.label>语言翻译假牙</CLWSFanyiJiaya.label>-->
+  <!--<CLWSZhinengTui.label>智能仿生腿</CLWSZhinengTui.label>-->
+
+</LanguageData>

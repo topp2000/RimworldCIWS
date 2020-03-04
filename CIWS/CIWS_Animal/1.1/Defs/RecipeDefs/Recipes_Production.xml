@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- 	<RecipeDef>
+		<defName>Make_CIWSColonist</defName>
+		<label>祈祷小人</label>
+		<description>祈祷小人。</description>
+		<jobString>少女祈祷中.</jobString>
+		<workAmount>250</workAmount>
+		<workSpeedStat>CookSpeed</workSpeedStat>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_CookMeal</soundWorking>
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+		<recipeUsers>
+			<li>CraftingSpot</li>
+		</recipeUsers>
+		<ingredients>
+		</ingredients>
+		<products>
+			<EggCIWSColonistFertilized>1</EggCIWSColonistFertilized>
+		</products>
+		<workSkill>Cooking</workSkill>
+	</RecipeDef> -->
+	
+	<RecipeDef>
+		<defName>MakeGoldEgg</defName>
+		<label>处理金蛋</label>
+		<description>处理金蛋。</description>
+		<jobString>正在处理金蛋。</jobString>
+		<workSpeedStat>SmeltingSpeed</workSpeedStat>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_Machining</soundWorking>
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<workAmount>2500</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>EggJinChickenFertilized</li>
+					</thingDefs>
+				</filter>
+				<count>10</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>EggJinChickenFertilized</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<Gold>10</Gold>
+		</products>
+		<workSkill>Crafting</workSkill>
+		<recipeUsers>
+			<li>CraftingSpot</li>
+		</recipeUsers>
+	</RecipeDef>
+
+	<RecipeDef>
+		<defName>MakeSilverEgg</defName>
+		<label>处理银蛋</label>
+		<description>处理银蛋。</description>
+		<jobString>正在处理银蛋。</jobString>
+		<workSpeedStat>SmeltingSpeed</workSpeedStat>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_Machining</soundWorking>
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<workAmount>2000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>EggYinChickenFertilized</li>
+					</thingDefs>
+				</filter>
+				<count>10</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>EggYinChickenFertilized</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<Silver>10</Silver>
+		</products>
+		<workSkill>Crafting</workSkill>
+		<recipeUsers>
+			<li>CraftingSpot</li>
+		</recipeUsers>
+	</RecipeDef>
+
+</Defs>

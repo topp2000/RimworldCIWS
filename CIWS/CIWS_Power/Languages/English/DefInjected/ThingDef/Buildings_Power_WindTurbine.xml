@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CIWS_WindTurbine.label>Low drag wind generator</CIWS_WindTurbine.label>
+  <CIWS_WindTurbine.description>After the redesign of the fluid mechanics, the wind resistance of the wind turbine is greatly reduced, and it can be ignored.</CIWS_WindTurbine.description>
+  <CIWS_WindTurbine_Blueprint.label>Low drag wind generator(blueprint)</CIWS_WindTurbine_Blueprint.label>
+  <CIWS_WindTurbine_Frame.label>Low drag wind generator(building)</CIWS_WindTurbine_Frame.label>
+  <CIWS_WindTurbine_Frame.description>After the redesign of the fluid mechanics, the wind resistance of the wind turbine is greatly reduced, and it can be ignored.</CIWS_WindTurbine_Frame.description>
+
+
+</LanguageData>

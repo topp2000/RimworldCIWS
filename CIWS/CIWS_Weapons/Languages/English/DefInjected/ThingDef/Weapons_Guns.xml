@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_TieSha.label>铁砂</Bullet_TieSha.label>
+
+  <Gun_TuZhiLieQiang.label>土制猎枪</Gun_TuZhiLieQiang.label>
+  <Gun_TuZhiLieQiang.description>简单制作的猎枪，比霰弹枪杀伤力更强，射程更短，适合前期消灭任何胆敢近身的敌人，感谢箱兔小姐姐的贴图支持。</Gun_TuZhiLieQiang.description>
+  <Gun_TuZhiLieQiang.tools.0.label>stock</Gun_TuZhiLieQiang.tools.0.label>
+  <Gun_TuZhiLieQiang.tools.1.label>barrel</Gun_TuZhiLieQiang.tools.1.label>
+
+  <Bullet_9mmluge.label>9mm luger</Bullet_9mmluge.label>
+
+  <Gun_CIWS_G18C.label>Glock 18C</Gun_CIWS_G18C.label>
+  <Gun_CIWS_G18C.description>Glock 18C pistol, an excellent automatic pistol, has automatic shooting function.</Gun_CIWS_G18C.description>
+  <Gun_CIWS_G18C.tools.0.label>butt</Gun_CIWS_G18C.tools.0.label>
+  <Gun_CIWS_G18C.tools.1.label>barrel</Gun_CIWS_G18C.tools.1.label>
+
+  <Bullet_Dbp87A.label>5.8mm bullet</Bullet_Dbp87A.label>
+
+  <Gun_QBU85A.label>85 type sniper rifle</Gun_QBU85A.label>
+  <Gun_QBU85A.description>The 85 type sniper rifle produced in China is improved by the type 79 sniper rifle.</Gun_QBU85A.description>
+  <Gun_QBU85A.tools.0.label>butt</Gun_QBU85A.tools.0.label>
+  <Gun_QBU85A.tools.1.label>barrel</Gun_QBU85A.tools.1.label>
+
+  <Bullet_M1943A.label>M43 bullet</Bullet_M1943A.label>
+
+  <Gun_QBZ81A.label>81-1 type automatic rifle</Gun_QBZ81A.label>
+  <Gun_QBZ81A.description>An automatic rifle with good precision, reliable action and easy operation and maintenance in China.</Gun_QBZ81A.description>
+  <Gun_QBZ81A.tools.0.label>butt</Gun_QBZ81A.tools.0.label>
+  <Gun_QBZ81A.tools.1.label>barrel</Gun_QBZ81A.tools.1.label>
+
+  <Bullet_Huojiandan.label>80mm rocket</Bullet_Huojiandan.label>
+
+  <Gun_CIWS_PF89A.label>PF89A rocket</Gun_CIWS_PF89A.label>
+  <Gun_CIWS_PF89A.description>PF89A type individual rocket launcher.</Gun_CIWS_PF89A.description>
+  <Gun_CIWS_PF89A.tools.0.label>barrel</Gun_CIWS_PF89A.tools.0.label>
+
+  <Bullet_Hedantou.label>Nuclear warhead</Bullet_Hedantou.label>
+
+  <Gun_CIWS_PF89N.label>PF89N nuclear rocket</Gun_CIWS_PF89N.label>
+  <Gun_CIWS_PF89N.description>PF89N type nuclear rocket soldier.</Gun_CIWS_PF89N.description>
+  <Gun_CIWS_PF89N.tools.0.label>barrel</Gun_CIWS_PF89N.tools.0.label>
+
+  <Gun_CIWS_PF89NB.label>PF89NB three nuclear rocket</Gun_CIWS_PF89NB.label>
+  <Gun_CIWS_PF89NB.description>PF89NB type three nuclear rocket soldier.</Gun_CIWS_PF89NB.description>
+  <Gun_CIWS_PF89NB.tools.0.label>barrel</Gun_CIWS_PF89NB.tools.0.label>
+
+
+  <!--<Proj_GrenadeMiehuo.label>outfire grenade</Proj_GrenadeMiehuo.label>-->
+  <!--<Weapon_GrenadeMiehuo.label>outfire grenade</Weapon_GrenadeMiehuo.label>-->
+  <!--<Weapon_GrenadeMiehuo.description>outfire grenade.</Weapon_GrenadeMiehuo.description>-->
+  <!--<Weapon_GrenadeMiehuo.verbs.0.label>throw outfire grenade.</Weapon_GrenadeMiehuo.verbs.0.label>-->
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <CIWSNamiAI.label>纳米机器人</CIWSNamiAI.label>
+  <CIWSFanyiJiaya.label>语言翻译假牙</CIWSFanyiJiaya.label>
+  <CIWSZhinengTui.label>智能仿生腿</CIWSZhinengTui.label>
+
+
+  <!--<CLWSNamiAI.label>Nano Robot</CLWSNamiAI.label>-->
+  <!--<CLWSFanyiJiaya.label>Translated Denture</CLWSFanyiJiaya.label>-->
+  <!--<CLWSZhinengTui.label>Intelligent Bionic Leg</CLWSZhinengTui.label>-->
+
+</LanguageData>

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GoldChicken.label>gold chicken</GoldChicken.label>
+  <GoldChicken.labelPlural>gold chicken</GoldChicken.labelPlural>
+  <GoldChicken.lifeStages.0.label>chick</GoldChicken.lifeStages.0.label>
+  <GoldChicken.lifeStages.0.labelPlural>chick</GoldChicken.lifeStages.0.labelPlural>
+  <GoldChicken.lifeStages.0.labelMale>chick</GoldChicken.lifeStages.0.labelMale>
+  <GoldChicken.lifeStages.0.labelMalePlural>chick</GoldChicken.lifeStages.0.labelMalePlural>
+  <GoldChicken.lifeStages.0.labelFemale>chick</GoldChicken.lifeStages.0.labelFemale>
+  <GoldChicken.lifeStages.0.labelFemalePlural>chick</GoldChicken.lifeStages.0.labelFemalePlural>
+  <GoldChicken.lifeStages.1.label>chick</GoldChicken.lifeStages.1.label>
+  <GoldChicken.lifeStages.1.labelPlural>chick</GoldChicken.lifeStages.1.labelPlural>
+  <GoldChicken.lifeStages.1.labelMale>cockerel</GoldChicken.lifeStages.1.labelMale>
+  <GoldChicken.lifeStages.1.labelMalePlural>cockerel</GoldChicken.lifeStages.1.labelMalePlural>
+  <GoldChicken.lifeStages.1.labelFemale>pullet</GoldChicken.lifeStages.1.labelFemale>
+  <GoldChicken.lifeStages.1.labelFemalePlural>pullet</GoldChicken.lifeStages.1.labelFemalePlural>
+  <GoldChicken.lifeStages.2.label>gold chicken</GoldChicken.lifeStages.2.label>
+  <GoldChicken.lifeStages.2.labelPlural>gold chicken</GoldChicken.lifeStages.2.labelPlural>
+  <GoldChicken.lifeStages.2.labelMale>old rooster</GoldChicken.lifeStages.2.labelMale>
+  <GoldChicken.lifeStages.2.labelMalePlural>old rooster</GoldChicken.lifeStages.2.labelMalePlural>
+  <GoldChicken.lifeStages.2.labelFemale>old hen</GoldChicken.lifeStages.2.labelFemale>
+  <GoldChicken.lifeStages.2.labelFemalePlural>old hen</GoldChicken.lifeStages.2.labelFemalePlural>
+  <GoldChicken.labelMale>old rooster</GoldChicken.labelMale>
+  <GoldChicken.labelMalePlural>old rooster</GoldChicken.labelMalePlural>
+  <GoldChicken.labelFemale>old hen</GoldChicken.labelFemale>
+  <GoldChicken.labelFemalePlural>old hen</GoldChicken.labelFemalePlural>
+
+
+  <!-- 大熊猫 -->
+
+  <CIWSDaXiongMao.label>panda</CIWSDaXiongMao.label>
+  <CIWSDaXiongMao.labelPlural>panda</CIWSDaXiongMao.labelPlural>
+  <CIWSDaXiongMao.lifeStages.0.label>baby panda</CIWSDaXiongMao.lifeStages.0.label>
+  <CIWSDaXiongMao.lifeStages.0.labelPlural>baby panda</CIWSDaXiongMao.lifeStages.0.labelPlural>
+  <CIWSDaXiongMao.lifeStages.0.labelMale>baby panda</CIWSDaXiongMao.lifeStages.0.labelMale>
+  <CIWSDaXiongMao.lifeStages.0.labelMalePlural>baby panda</CIWSDaXiongMao.lifeStages.0.labelMalePlural>
+  <CIWSDaXiongMao.lifeStages.0.labelFemale>baby panda</CIWSDaXiongMao.lifeStages.0.labelFemale>
+  <CIWSDaXiongMao.lifeStages.0.labelFemalePlural>baby panda</CIWSDaXiongMao.lifeStages.0.labelFemalePlural>
+  <CIWSDaXiongMao.lifeStages.1.label>small panda</CIWSDaXiongMao.lifeStages.1.label>
+  <CIWSDaXiongMao.lifeStages.1.labelPlural>small panda</CIWSDaXiongMao.lifeStages.1.labelPlural>
+  <CIWSDaXiongMao.lifeStages.1.labelMale>male small panda</CIWSDaXiongMao.lifeStages.1.labelMale>
+  <CIWSDaXiongMao.lifeStages.1.labelMalePlural>male small panda</CIWSDaXiongMao.lifeStages.1.labelMalePlural>
+  <CIWSDaXiongMao.lifeStages.1.labelFemale>female small panda</CIWSDaXiongMao.lifeStages.1.labelFemale>
+  <CIWSDaXiongMao.lifeStages.1.labelFemalePlural>female small panda</CIWSDaXiongMao.lifeStages.1.labelFemalePlural>
+  <CIWSDaXiongMao.lifeStages.2.label>panda</CIWSDaXiongMao.lifeStages.2.label>
+  <CIWSDaXiongMao.lifeStages.2.labelPlural>panda</CIWSDaXiongMao.lifeStages.2.labelPlural>
+  <CIWSDaXiongMao.lifeStages.2.labelMale>male panda</CIWSDaXiongMao.lifeStages.2.labelMale>
+  <CIWSDaXiongMao.lifeStages.2.labelMalePlural>male panda</CIWSDaXiongMao.lifeStages.2.labelMalePlural>
+  <CIWSDaXiongMao.lifeStages.2.labelFemale>female panda</CIWSDaXiongMao.lifeStages.2.labelFemale>
+  <CIWSDaXiongMao.lifeStages.2.labelFemalePlural>female panda</CIWSDaXiongMao.lifeStages.2.labelFemalePlural>
+  <CIWSDaXiongMao.labelMale>male panda</CIWSDaXiongMao.labelMale>
+  <CIWSDaXiongMao.labelMalePlural>male panda</CIWSDaXiongMao.labelMalePlural>
+  <CIWSDaXiongMao.labelFemale>female panda</CIWSDaXiongMao.labelFemale>
+  <CIWSDaXiongMao.labelFemalePlural>female panda</CIWSDaXiongMao.labelFemalePlural>
+
+
+  <!-- 战熊 -->
+
+  <ZhanXiong.label>war bear</ZhanXiong.label>
+  <ZhanXiong.labelPlural>war bear</ZhanXiong.labelPlural>
+  <ZhanXiong.lifeStages.0.label>baby war bear</ZhanXiong.lifeStages.0.label>
+  <ZhanXiong.lifeStages.0.labelPlural>baby war bear</ZhanXiong.lifeStages.0.labelPlural>
+  <ZhanXiong.lifeStages.0.labelMale>baby war bear</ZhanXiong.lifeStages.0.labelMale>
+  <ZhanXiong.lifeStages.0.labelMalePlural>baby war bear</ZhanXiong.lifeStages.0.labelMalePlural>
+  <ZhanXiong.lifeStages.0.labelFemale>baby war bear</ZhanXiong.lifeStages.0.labelFemale>
+  <ZhanXiong.lifeStages.0.labelFemalePlural>baby war bear</ZhanXiong.lifeStages.0.labelFemalePlural>
+  <ZhanXiong.lifeStages.1.label>small war bear</ZhanXiong.lifeStages.1.label>
+  <ZhanXiong.lifeStages.1.labelPlural>small war bear</ZhanXiong.lifeStages.1.labelPlural>
+  <ZhanXiong.lifeStages.1.labelMale>male small war bear</ZhanXiong.lifeStages.1.labelMale>
+  <ZhanXiong.lifeStages.1.labelMalePlural>male small war bear</ZhanXiong.lifeStages.1.labelMalePlural>
+  <ZhanXiong.lifeStages.1.labelFemale>female small war bear</ZhanXiong.lifeStages.1.labelFemale>
+  <ZhanXiong.lifeStages.1.labelFemalePlural>female small war bear</ZhanXiong.lifeStages.1.labelFemalePlural>
+  <ZhanXiong.lifeStages.2.label>war bear</ZhanXiong.lifeStages.2.label>
+  <ZhanXiong.lifeStages.2.labelPlural>war bear</ZhanXiong.lifeStages.2.labelPlural>
+  <ZhanXiong.lifeStages.2.labelMale>male war bear</ZhanXiong.lifeStages.2.labelMale>
+  <ZhanXiong.lifeStages.2.labelMalePlural>male war bear</ZhanXiong.lifeStages.2.labelMalePlural>
+  <ZhanXiong.lifeStages.2.labelFemale>female war bear</ZhanXiong.lifeStages.2.labelFemale>
+  <ZhanXiong.lifeStages.2.labelFemalePlural>female war bear</ZhanXiong.lifeStages.2.labelFemalePlural>
+  <ZhanXiong.labelMale>male war bear</ZhanXiong.labelMale>
+  <ZhanXiong.labelMalePlural>male war bear</ZhanXiong.labelMalePlural>
+  <ZhanXiong.labelFemale>female war bear</ZhanXiong.labelFemale>
+  <ZhanXiong.labelFemalePlural>female war bear</ZhanXiong.labelFemalePlural>
+
+
+</LanguageData>

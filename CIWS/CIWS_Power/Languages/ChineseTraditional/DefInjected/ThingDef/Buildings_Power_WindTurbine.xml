@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CIWS_WindTurbine.label>低風阻風力發電機</CIWS_WindTurbine.label>
+  <CIWS_WindTurbine.description>經過流體力學的再設計，讓風力發電機本身的風阻大大降低，基本可以忽略。</CIWS_WindTurbine.description>
+  <CIWS_WindTurbine_Blueprint.label>低風阻風力發電機 (藍圖)</CIWS_WindTurbine_Blueprint.label>
+  <CIWS_WindTurbine_Frame.label>低風阻風力發電機 (建造中)</CIWS_WindTurbine_Frame.label>
+  <CIWS_WindTurbine_Frame.description>經過流體力學的再設計，讓風力發電機本身的風阻大大降低，基本可以忽略。</CIWS_WindTurbine_Frame.description>
+
+
+</LanguageData>

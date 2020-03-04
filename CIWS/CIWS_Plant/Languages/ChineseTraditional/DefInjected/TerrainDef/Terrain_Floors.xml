@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <YuanmuFloor.label>原木地板</YuanmuFloor.label>
+  <YuanmuFloor.description>原木地板，看起來比較廉價。</YuanmuFloor.description>
+
+  <FuheFloor.label>複合地板</FuheFloor.label>
+  <FuheFloor.description>複合地板，漂亮但是成本高昂。</FuheFloor.description>
+
+  <YumiaoFloor.label>育苗地</YumiaoFloor.label>
+  <YumiaoFloor.description>育苗地，施加複合肥的土地。</YumiaoFloor.description>
+
+
+</LanguageData>

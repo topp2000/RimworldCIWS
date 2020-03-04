@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--================================ Tier 2: Non-electric ====================================-->
+
+	<ResearchProjectDef>
+		<defName>CIWS_CyclicEnergy</defName>
+		<label>近防系统-回收能源</label>
+		<description>回收游离的能源，解锁超大型火力发电机。</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>Electricity</li>
+		</prerequisites>
+		<researchViewX>0</researchViewX>
+		<researchViewY>1</researchViewY>
+		<tab>CIWS</tab>
+	</ResearchProjectDef>
+
+</Defs>

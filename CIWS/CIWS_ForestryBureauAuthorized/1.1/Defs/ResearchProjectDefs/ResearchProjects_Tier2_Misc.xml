@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--================================ Tier 2: Non-electric ====================================-->
+
+	<ResearchProjectDef>
+		<defName>LinYeJuShouQuanA</defName>
+		<label>林业局授权A</label>
+		<description>获得林业局A级授权，解锁种植实验中的资源植物。</description>
+		<baseCost>1500</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>TreeSowing</li>
+		</prerequisites>
+		<researchViewX>0</researchViewX>
+		<researchViewY>1</researchViewY>
+		<tab>LinYeJu</tab>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>LinYeJuShouQuanB</defName>
+		<label>林业局授权B</label>
+		<description>获得林业局B级授权，解锁种植实验中的资源植物。</description>
+		<baseCost>3000</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>LinYeJuShouQuanA</li>
+		</prerequisites>
+		<researchViewX>1</researchViewX>
+		<researchViewY>2</researchViewY>
+		<tab>LinYeJu</tab>
+	</ResearchProjectDef>
+
+</Defs>

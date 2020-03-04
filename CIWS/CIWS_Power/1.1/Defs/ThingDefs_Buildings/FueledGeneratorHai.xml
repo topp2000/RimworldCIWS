@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef ParentName="BuildingBase">
+		<defName>FueledGeneratorL</defName>
+		<label>大型木材发电机</label>
+		<thingClass>Building</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Power/WoodFiredGenerator</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(3,3)</drawSize>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>Impassable</passability>
+		<pathCost>150</pathCost>
+		<blockWind>true</blockWind>
+		<fillPercent>1.0</fillPercent>
+		<castEdgeShadows>false</castEdgeShadows>
+		<rotatable>false</rotatable>
+		<statBases>
+			<MaxHitPoints>300</MaxHitPoints>
+			<WorkToBuild>2500</WorkToBuild>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<description>用更多的木头燃烧发电,能耗降低20%，需要手动添加燃料。</description>
+		<size>(3,3)</size>
+		<costList>
+			<Steel>100</Steel>
+			<ComponentIndustrial>2</ComponentIndustrial>
+		</costList>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerPlant</compClass>
+				<basePowerConsumption>-5000</basePowerConsumption>
+				<transmitsPower>true</transmitsPower>
+			</li>
+			<li Class="CompProperties_Flickable" />
+			<li Class="CompProperties_Refuelable">
+				<fuelConsumptionRate>35.2</fuelConsumptionRate>
+				<fuelCapacity>150.0</fuelCapacity>
+				<fuelFilter>
+					<thingDefs>
+						<li>WoodLog</li>
+					</thingDefs>
+				</fuelFilter>
+			</li>
+			<li Class="CompProperties_Glower">
+				<glowRadius>6</glowRadius>
+				<glowColor>(135,206,250,0)</glowColor>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<compClass>CompHeatPusherPowered</compClass>
+				<heatPerSecond>6</heatPerSecond>
+			</li>
+			<li Class="CompProperties_Breakdownable"/>
+		</comps>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<designationCategory>Power</designationCategory>
+		<staticSunShadowHeight>0.5</staticSunShadowHeight>
+		<constructEffect>ConstructMetal</constructEffect>
+		<researchPrerequisites>
+			<li>Electricity</li>
+		</researchPrerequisites>
+	</ThingDef>
+
+	<ThingDef ParentName="BuildingBase">
+		<defName>ChemfuelFueledGeneratorL</defName>
+		<label>大型燃料发电机</label>
+		<thingClass>Building</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Power/ChemfuelPoweredGenerator</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(3,3)</drawSize>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>Impassable</passability>
+		<pathCost>150</pathCost>
+		<blockWind>true</blockWind>
+		<fillPercent>1.0</fillPercent>
+		<castEdgeShadows>false</castEdgeShadows>
+		<rotatable>false</rotatable>
+		<statBases>
+			<MaxHitPoints>300</MaxHitPoints>
+			<WorkToBuild>2500</WorkToBuild>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<description>用更多的燃料燃烧发电,能耗降低20%，需要手动添加燃料。</description>
+		<size>(3,3)</size>
+		<costList>
+			<Steel>100</Steel>
+			<ComponentIndustrial>3</ComponentIndustrial>
+		</costList>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerPlant</compClass>
+				<basePowerConsumption>-5000</basePowerConsumption>
+				<transmitsPower>true</transmitsPower>
+			</li>
+			<li Class="CompProperties_Flickable" />
+			<li Class="CompProperties_Refuelable">
+				<fuelConsumptionRate>7.2</fuelConsumptionRate>
+				<fuelCapacity>60.0</fuelCapacity>
+				<fuelFilter>
+					<thingDefs>
+						<li>Chemfuel</li>
+					</thingDefs>
+				</fuelFilter>
+			</li>
+			<li Class="CompProperties_Glower">
+				<glowRadius>6</glowRadius>
+				<glowColor>(135,206,250,0)</glowColor>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<compClass>CompHeatPusherPowered</compClass>
+				<heatPerSecond>6</heatPerSecond>
+			</li>
+			<li Class="CompProperties_Breakdownable"/>
+		</comps>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<designationCategory>Power</designationCategory>
+		<staticSunShadowHeight>0.5</staticSunShadowHeight>
+		<constructEffect>ConstructMetal</constructEffect>
+		<researchPrerequisites>
+			<li>Electricity</li>
+		</researchPrerequisites>
+	</ThingDef>
+
+	<ThingDef ParentName="BuildingBase">
+		<defName>FueledGeneratorXL</defName>
+		<label>超大型木材发电机</label>
+		<thingClass>Building</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Power/WoodFiredGenerator</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(4,4)</drawSize>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>Impassable</passability>
+		<pathCost>150</pathCost>
+		<blockWind>true</blockWind>
+		<fillPercent>1.0</fillPercent>
+		<castEdgeShadows>false</castEdgeShadows>
+		<rotatable>false</rotatable>
+		<statBases>
+			<MaxHitPoints>300</MaxHitPoints>
+			<WorkToBuild>2500</WorkToBuild>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<description>超大型火力发电机，大幅度降低能源消耗。</description>
+		<size>(4,4)</size>
+		<costList>
+			<Steel>150</Steel>
+			<ComponentIndustrial>3</ComponentIndustrial>
+		</costList>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerPlant</compClass>
+				<basePowerConsumption>-10000</basePowerConsumption>
+				<transmitsPower>true</transmitsPower>
+			</li>
+			<li Class="CompProperties_Flickable" />
+			<li Class="CompProperties_Refuelable">
+				<fuelConsumptionRate>2</fuelConsumptionRate>
+				<fuelCapacity>75.0</fuelCapacity>
+				<fuelFilter>
+					<thingDefs>
+						<li>WoodLog</li>
+					</thingDefs>
+				</fuelFilter>
+			</li>
+			<li Class="CompProperties_Glower">
+				<glowRadius>6</glowRadius>
+				<glowColor>(135,206,250,0)</glowColor>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<compClass>CompHeatPusherPowered</compClass>
+				<heatPerSecond>6</heatPerSecond>
+			</li>
+			<li Class="CompProperties_Breakdownable"/>
+		</comps>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<designationCategory>Power</designationCategory>
+		<staticSunShadowHeight>0.5</staticSunShadowHeight>
+		<constructEffect>ConstructMetal</constructEffect>
+		<researchPrerequisites>
+			<li>CIWS_CyclicEnergy</li>
+		</researchPrerequisites>
+	</ThingDef>
+
+	<ThingDef ParentName="BuildingBase">
+		<defName>ChemfuelFueledGeneratorXL</defName>
+		<label>超大型燃料发电机</label>
+		<thingClass>Building</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Power/ChemfuelPoweredGenerator</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(4,4)</drawSize>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>Impassable</passability>
+		<pathCost>150</pathCost>
+		<blockWind>true</blockWind>
+		<fillPercent>1.0</fillPercent>
+		<castEdgeShadows>false</castEdgeShadows>
+		<rotatable>false</rotatable>
+		<statBases>
+			<MaxHitPoints>300</MaxHitPoints>
+			<WorkToBuild>2500</WorkToBuild>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<description>超大型燃料发电机，大幅度降低能源消耗。</description>
+		<size>(4,4)</size>
+		<costList>
+			<Steel>150</Steel>
+			<ComponentIndustrial>4</ComponentIndustrial>
+		</costList>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerPlant</compClass>
+				<basePowerConsumption>-10000</basePowerConsumption>
+				<transmitsPower>true</transmitsPower>
+			</li>
+			<li Class="CompProperties_Flickable" />
+			<li Class="CompProperties_Refuelable">
+				<fuelConsumptionRate>0.4</fuelConsumptionRate>
+				<fuelCapacity>30.0</fuelCapacity>
+				<fuelFilter>
+					<thingDefs>
+						<li>Chemfuel</li>
+					</thingDefs>
+				</fuelFilter>
+			</li>
+			<li Class="CompProperties_Glower">
+				<glowRadius>6</glowRadius>
+				<glowColor>(135,206,250,0)</glowColor>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<compClass>CompHeatPusherPowered</compClass>
+				<heatPerSecond>6</heatPerSecond>
+			</li>
+			<li Class="CompProperties_Breakdownable"/>
+		</comps>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<designationCategory>Power</designationCategory>
+		<staticSunShadowHeight>0.5</staticSunShadowHeight>
+		<constructEffect>ConstructMetal</constructEffect>
+		<researchPrerequisites>
+			<li>CIWS_CyclicEnergy</li>
+		</researchPrerequisites>
+	</ThingDef>
+
+	<ThingDef ParentName="BuildingBase">
+		<defName>FueledGeneratorHai</defName>
+		<label>核聚变发电站</label>
+		<thingClass>Building</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Power/FueledGeneratorHai</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(10,6)</drawSize>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>Impassable</passability>
+		<pathCost>150</pathCost>
+		<blockWind>true</blockWind>
+		<fillPercent>1.0</fillPercent>
+		<castEdgeShadows>false</castEdgeShadows>
+		<rotatable>false</rotatable>
+		<!--旋转选项-->
+		<statBases>
+			<MaxHitPoints>3000</MaxHitPoints>
+			<WorkToBuild>5000</WorkToBuild>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<description>可控稳定核聚变装置，可以安全稳定的输出电力。</description>
+		<size>(10,6)</size>
+		<costList>
+			<Steel>1200</Steel>
+			<Plasteel>300</Plasteel>
+			<CIWS_ShuiNi>150</CIWS_ShuiNi>
+			<ComponentIndustrial>20</ComponentIndustrial>
+		</costList>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerPlant</compClass>
+				<basePowerConsumption>-1000000</basePowerConsumption>
+				<transmitsPower>true</transmitsPower>
+			</li>
+			<li Class="CompProperties_Flickable" />
+			<li Class="CompProperties_Refuelable">
+				<fuelConsumptionRate>0.832</fuelConsumptionRate>
+				<fuelCapacity>100.0</fuelCapacity>
+				<fuelFilter>
+					<thingDefs>
+						<li>Hai3Yetai</li>
+					</thingDefs>
+				</fuelFilter>
+			</li>
+			<li Class="CompProperties_Glower">
+				<glowRadius>15</glowRadius>
+				<glowColor>(135,206,250,0)</glowColor>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<compClass>CompHeatPusherPowered</compClass>
+				<heatPerSecond>120</heatPerSecond>
+				<heatPushMaxTemperature>50</heatPushMaxTemperature>
+			</li>
+			<li Class="CompProperties_Breakdownable"/>
+		</comps>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<designationCategory>Power</designationCategory>
+		<staticSunShadowHeight>0.5</staticSunShadowHeight>
+		<constructEffect>ConstructMetal</constructEffect>
+		<researchPrerequisites>
+			<li>Electricity</li>
+		</researchPrerequisites>
+		<constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+	</ThingDef>
+
+	<ThingDef ParentName="BuildingBase">
+		<defName>Dianchi</defName>
+		<label>石墨烯电池</label>
+		<thingClass>Building_Battery</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Power/Dianchi</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(2,3)</drawSize>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<pathCost>140</pathCost>
+		<blockWind>true</blockWind>
+		<castEdgeShadows>true</castEdgeShadows>
+		<fillPercent>0.40</fillPercent>
+		<tickerType>Normal</tickerType>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<thingCategories>
+			<li>BuildingsPower</li>
+		</thingCategories>
+		<statBases>
+			<MaxHitPoints>500</MaxHitPoints>
+			<WorkToBuild>800</WorkToBuild>
+			<Mass>20</Mass>
+			<Flammability>0.5</Flammability>
+			<Beauty>10</Beauty>
+		</statBases>
+		<description>石墨烯电池，由于石墨烯材料极薄，阳离子移动限制极小，所制作的蓄电池充电效率更高，速度更快，容量更大。</description>
+		<size>(1,2)</size>
+		<costList>
+			<Shimoxi>100</Shimoxi>
+		</costList>
+		<comps>
+			<li Class="CompProperties_Battery">
+				<storedEnergyMax>5000</storedEnergyMax>
+				<efficiency>0.98</efficiency>
+				<shortCircuitInRain>true</shortCircuitInRain>
+				<transmitsPower>true</transmitsPower>
+			</li>
+			<li Class="CompProperties_Breakdownable"/>
+		</comps>
+		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+		<designationCategory>Power</designationCategory>
+		<staticSunShadowHeight>0.2</staticSunShadowHeight>
+		<constructEffect>ConstructMetal</constructEffect>
+		<canOverlapZones>false</canOverlapZones>
+		<researchPrerequisites>
+			<li>Batteries</li>
+		</researchPrerequisites>
+	</ThingDef>
+
+</Defs>

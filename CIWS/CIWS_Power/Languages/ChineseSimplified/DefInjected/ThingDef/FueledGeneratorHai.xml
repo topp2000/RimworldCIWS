@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FueledGeneratorL.label>大型火力发电机</FueledGeneratorL.label>
+  <FueledGeneratorL.description>用更多的木头燃烧发电，能耗降低20%，必须手动添加燃料。</FueledGeneratorL.description>
+  <FueledGeneratorL_Blueprint.label>大型火力发电机 (蓝图)</FueledGeneratorL_Blueprint.label>
+  <FueledGeneratorL_Frame.label>大型火力发电机 (建造中)</FueledGeneratorL_Frame.label>
+  <FueledGeneratorL_Frame.description>用更多的木头燃烧发电，能耗降低20%，必须手动添加燃料。</FueledGeneratorL_Frame.description>
+
+  <FueledGeneratorXL.label>超大型火力发电机</FueledGeneratorXL.label>
+  <FueledGeneratorXL.description>超大型火力发电机，大幅度降低能源消耗。</FueledGeneratorXL.description>
+  <FueledGeneratorXL_Blueprint.label>超大型火力发电机 (蓝图)</FueledGeneratorXL_Blueprint.label>
+  <FueledGeneratorXL_Frame.label>超大型火力发电机 (建造中)</FueledGeneratorXL_Frame.label>
+  <FueledGeneratorXL_Frame.description>超大型火力发电机，大幅度降低能源消耗。</FueledGeneratorXL_Frame.description>
+
+  <FueledGeneratorHai.label>核聚变发电站</FueledGeneratorHai.label>
+  <FueledGeneratorHai.description>可控稳定核聚变装置，可以安全稳定的输出电力。</FueledGeneratorHai.description>
+  <FueledGeneratorHai_Blueprint.label>核聚变发电站 (蓝图)</FueledGeneratorHai_Blueprint.label>
+  <FueledGeneratorHai_Frame.label>核聚变发电站 (建造中)</FueledGeneratorHai_Frame.label>
+  <FueledGeneratorHai_Frame.description>可控稳定核聚变装置，可以安全稳定的输出电力。</FueledGeneratorHai_Frame.description>
+
+  <Dianchi.label>石墨烯电池</Dianchi.label>
+  <Dianchi.description>石墨烯电池，由于石墨烯材料极薄，阳离子移动限制极小，所制作的蓄电池充电效率更高，速度更快，容量更大。</Dianchi.description>
+  <Dianchi_Blueprint.label>石墨烯电池 (蓝图)</Dianchi_Blueprint.label>
+  <Dianchi_Blueprint_Install.label>石墨烯电池 (蓝图)</Dianchi_Blueprint_Install.label>
+  <Dianchi_Frame.label>石墨烯电池 (建造中)</Dianchi_Frame.label>
+  <Dianchi_Frame.description>石墨烯电池，由于石墨烯材料极薄，阳离子移动限制极小，所制作的蓄电池充电效率更高，速度更快，容量更大。</Dianchi_Frame.description>
+
+
+  <!--<FueledGeneratorLG.label>大型火力发电机改进型</FueledGeneratorLG.label>-->
+  <!--<FueledGeneratorLG.description>大型火力发电机的改进型，大幅度降低能源消耗。</FueledGeneratorLG.description>-->
+  <!--<FueledGeneratorLG_Blueprint.label>大型火力发电机改进型 (蓝图)</FueledGeneratorLG_Blueprint.label>-->
+  <!--<FueledGeneratorLG_Frame.label>大型火力发电机改进型 (建造中)</FueledGeneratorLG_Frame.label>-->
+  <!--<FueledGeneratorLG_Frame.description>大型火力发电机的改进型，大幅度降低能源消耗。</FueledGeneratorLG_Frame.description>-->
+
+</LanguageData>

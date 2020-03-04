@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Frag grenade -->
+
+  <CIWS_Type67GrenadeFrag.label>六七式木柄手榴弹</CIWS_Type67GrenadeFrag.label>
+  <CIWS_Type67GrenadeFrag.description>造价低廉的手榴弹。</CIWS_Type67GrenadeFrag.description>
+  <CIWS_Type67GrenadeFrag.verbs.0.label>投掷手榴弹</CIWS_Type67GrenadeFrag.verbs.0.label>
+
+  <Proj_Type67GrenadeFrag.label>六七式木柄手榴弹</Proj_Type67GrenadeFrag.label>
+  <Proj_GrenadeMiehuo.label>灭火手榴弹</Proj_GrenadeMiehuo.label>
+
+  <Weapon_GrenadeMiehuo.label>灭火手榴弹</Weapon_GrenadeMiehuo.label>
+  <Weapon_GrenadeMiehuo.description>灭火手榴弹。</Weapon_GrenadeMiehuo.description>
+  <Weapon_GrenadeMiehuo.verbs.0.label>投掷灭火手榴弹</Weapon_GrenadeMiehuo.verbs.0.label>
+
+
+</LanguageData>

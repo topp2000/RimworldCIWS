@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GoldChicken.label>老鸡</GoldChicken.label>
+  <GoldChicken.labelPlural>老鸡</GoldChicken.labelPlural>
+  <GoldChicken.lifeStages.0.label>小鸡</GoldChicken.lifeStages.0.label>
+  <GoldChicken.lifeStages.0.labelPlural>小鸡</GoldChicken.lifeStages.0.labelPlural>
+  <GoldChicken.lifeStages.0.labelMale>小鸡</GoldChicken.lifeStages.0.labelMale>
+  <GoldChicken.lifeStages.0.labelMalePlural>小鸡</GoldChicken.lifeStages.0.labelMalePlural>
+  <GoldChicken.lifeStages.0.labelFemale>小鸡</GoldChicken.lifeStages.0.labelFemale>
+  <GoldChicken.lifeStages.0.labelFemalePlural>小鸡</GoldChicken.lifeStages.0.labelFemalePlural>
+  <GoldChicken.lifeStages.1.label>小鸡</GoldChicken.lifeStages.1.label>
+  <GoldChicken.lifeStages.1.labelPlural>小鸡</GoldChicken.lifeStages.1.labelPlural>
+  <GoldChicken.lifeStages.1.labelMale>小公鸡</GoldChicken.lifeStages.1.labelMale>
+  <GoldChicken.lifeStages.1.labelMalePlural>小公鸡</GoldChicken.lifeStages.1.labelMalePlural>
+  <GoldChicken.lifeStages.1.labelFemale>小母鸡</GoldChicken.lifeStages.1.labelFemale>
+  <GoldChicken.lifeStages.1.labelFemalePlural>小母鸡</GoldChicken.lifeStages.1.labelFemalePlural>
+  <GoldChicken.lifeStages.2.label>老鸡</GoldChicken.lifeStages.2.label>
+  <GoldChicken.lifeStages.2.labelPlural>老鸡</GoldChicken.lifeStages.2.labelPlural>
+  <GoldChicken.lifeStages.2.labelMale>老公鸡</GoldChicken.lifeStages.2.labelMale>
+  <GoldChicken.lifeStages.2.labelMalePlural>老公鸡</GoldChicken.lifeStages.2.labelMalePlural>
+  <GoldChicken.lifeStages.2.labelFemale>老母鸡</GoldChicken.lifeStages.2.labelFemale>
+  <GoldChicken.lifeStages.2.labelFemalePlural>老母鸡</GoldChicken.lifeStages.2.labelFemalePlural>
+  <GoldChicken.labelMale>老公鸡</GoldChicken.labelMale>
+  <GoldChicken.labelMalePlural>老公鸡</GoldChicken.labelMalePlural>
+  <GoldChicken.labelFemale>老母鸡</GoldChicken.labelFemale>
+  <GoldChicken.labelFemalePlural>老母鸡</GoldChicken.labelFemalePlural>
+
+
+  <!-- 大熊猫 -->
+
+  <CIWSDaXiongMao.label>大熊猫</CIWSDaXiongMao.label>
+  <CIWSDaXiongMao.labelPlural>大熊猫</CIWSDaXiongMao.labelPlural>
+  <CIWSDaXiongMao.lifeStages.0.label>大熊猫幼崽</CIWSDaXiongMao.lifeStages.0.label>
+  <CIWSDaXiongMao.lifeStages.0.labelPlural>大熊猫幼崽</CIWSDaXiongMao.lifeStages.0.labelPlural>
+  <CIWSDaXiongMao.lifeStages.0.labelMale>大熊猫幼崽</CIWSDaXiongMao.lifeStages.0.labelMale>
+  <CIWSDaXiongMao.lifeStages.0.labelMalePlural>大熊猫幼崽</CIWSDaXiongMao.lifeStages.0.labelMalePlural>
+  <CIWSDaXiongMao.lifeStages.0.labelFemale>大熊猫幼崽</CIWSDaXiongMao.lifeStages.0.labelFemale>
+  <CIWSDaXiongMao.lifeStages.0.labelFemalePlural>大熊猫幼崽</CIWSDaXiongMao.lifeStages.0.labelFemalePlural>
+  <CIWSDaXiongMao.lifeStages.1.label>小熊猫</CIWSDaXiongMao.lifeStages.1.label>
+  <CIWSDaXiongMao.lifeStages.1.labelPlural>小熊猫</CIWSDaXiongMao.lifeStages.1.labelPlural>
+  <CIWSDaXiongMao.lifeStages.1.labelMale>雄性小熊猫</CIWSDaXiongMao.lifeStages.1.labelMale>
+  <CIWSDaXiongMao.lifeStages.1.labelMalePlural>雄性小熊猫</CIWSDaXiongMao.lifeStages.1.labelMalePlural>
+  <CIWSDaXiongMao.lifeStages.1.labelFemale>雌性小熊猫</CIWSDaXiongMao.lifeStages.1.labelFemale>
+  <CIWSDaXiongMao.lifeStages.1.labelFemalePlural>雌性小熊猫</CIWSDaXiongMao.lifeStages.1.labelFemalePlural>
+  <CIWSDaXiongMao.lifeStages.2.label>大熊猫</CIWSDaXiongMao.lifeStages.2.label>
+  <CIWSDaXiongMao.lifeStages.2.labelPlural>大熊猫</CIWSDaXiongMao.lifeStages.2.labelPlural>
+  <CIWSDaXiongMao.lifeStages.2.labelMale>雄性大熊猫</CIWSDaXiongMao.lifeStages.2.labelMale>
+  <CIWSDaXiongMao.lifeStages.2.labelMalePlural>雄性大熊猫</CIWSDaXiongMao.lifeStages.2.labelMalePlural>
+  <CIWSDaXiongMao.lifeStages.2.labelFemale>雌性大熊猫</CIWSDaXiongMao.lifeStages.2.labelFemale>
+  <CIWSDaXiongMao.lifeStages.2.labelFemalePlural>雌性大熊猫</CIWSDaXiongMao.lifeStages.2.labelFemalePlural>
+  <CIWSDaXiongMao.labelMale>雄性大熊猫</CIWSDaXiongMao.labelMale>
+  <CIWSDaXiongMao.labelMalePlural>雄性大熊猫</CIWSDaXiongMao.labelMalePlural>
+  <CIWSDaXiongMao.labelFemale>雌性大熊猫</CIWSDaXiongMao.labelFemale>
+  <CIWSDaXiongMao.labelFemalePlural>雌性大熊猫</CIWSDaXiongMao.labelFemalePlural>
+
+
+  <!-- 战熊 -->
+
+  <ZhanXiong.label>战熊</ZhanXiong.label>
+  <ZhanXiong.labelPlural>战熊</ZhanXiong.labelPlural>
+  <ZhanXiong.lifeStages.0.label>战熊幼崽</ZhanXiong.lifeStages.0.label>
+  <ZhanXiong.lifeStages.0.labelPlural>战熊幼崽</ZhanXiong.lifeStages.0.labelPlural>
+  <ZhanXiong.lifeStages.0.labelMale>战熊幼崽</ZhanXiong.lifeStages.0.labelMale>
+  <ZhanXiong.lifeStages.0.labelMalePlural>战熊幼崽</ZhanXiong.lifeStages.0.labelMalePlural>
+  <ZhanXiong.lifeStages.0.labelFemale>战熊幼崽</ZhanXiong.lifeStages.0.labelFemale>
+  <ZhanXiong.lifeStages.0.labelFemalePlural>战熊幼崽</ZhanXiong.lifeStages.0.labelFemalePlural>
+  <ZhanXiong.lifeStages.1.label>小战熊</ZhanXiong.lifeStages.1.label>
+  <ZhanXiong.lifeStages.1.labelPlural>小战熊</ZhanXiong.lifeStages.1.labelPlural>
+  <ZhanXiong.lifeStages.1.labelMale>雄性小战熊</ZhanXiong.lifeStages.1.labelMale>
+  <ZhanXiong.lifeStages.1.labelMalePlural>雄性小战熊</ZhanXiong.lifeStages.1.labelMalePlural>
+  <ZhanXiong.lifeStages.1.labelFemale>雌性小战熊</ZhanXiong.lifeStages.1.labelFemale>
+  <ZhanXiong.lifeStages.1.labelFemalePlural>雌性小战熊</ZhanXiong.lifeStages.1.labelFemalePlural>
+  <ZhanXiong.lifeStages.2.label>战熊</ZhanXiong.lifeStages.2.label>
+  <ZhanXiong.lifeStages.2.labelPlural>战熊</ZhanXiong.lifeStages.2.labelPlural>
+  <ZhanXiong.lifeStages.2.labelMale>雄性战熊</ZhanXiong.lifeStages.2.labelMale>
+  <ZhanXiong.lifeStages.2.labelMalePlural>雄性战熊</ZhanXiong.lifeStages.2.labelMalePlural>
+  <ZhanXiong.lifeStages.2.labelFemale>雌性战熊</ZhanXiong.lifeStages.2.labelFemale>
+  <ZhanXiong.lifeStages.2.labelFemalePlural>雌性战熊</ZhanXiong.lifeStages.2.labelFemalePlural>
+  <ZhanXiong.labelMale>雄性战熊</ZhanXiong.labelMale>
+  <ZhanXiong.labelMalePlural>雄性战熊</ZhanXiong.labelMalePlural>
+  <ZhanXiong.labelFemale>雌性战熊</ZhanXiong.labelFemale>
+  <ZhanXiong.labelFemalePlural>雌性战熊</ZhanXiong.labelFemalePlural>
+
+
+</LanguageData>
